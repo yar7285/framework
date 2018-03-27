@@ -1,0 +1,6 @@
+[2018-03-27 22:57:56] Текст ошибкы: Страница не найдена 
+        | Файл: C:\OpenServer\domains\ishop\vendor\ishop\core\Router.php | Строка: 45
+===================
+[2018-03-27 22:57:56] Текст ошибкы: нет соединения с БД 
+        | Файл: C:\OpenServer\domains\ishop\vendor\ishop\core\Db.php | Строка: 16
+===================
